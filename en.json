@@ -1,6 +1,6 @@
 {
     "localeCode": "en",
-    "authors": ["Frooxius", "Enverex", "rampa_3", "Melnus", "dfgHiatus", "Earthmark", "Ryuvi", "Nammi"],
+    "authors": ["Frooxius", "Enverex", "rampa_3", "Melnus", "dfgHiatus", "Earthmark", "Ryuvi", "Nammi", "ELO621B73"],
     "messages": {
 
         "General.OK": "OK",
@@ -1277,6 +1277,7 @@
         "Settings.PhotoCaptureSettings": "Quick Photo Capture",
 
         "Settings.DesktopRenderSettings": "Desktop Render Settings",
+        "Settings.DesktopRenderSettings.FieldOfViewEffectsEnabled": "FOV effects",
 
         "Settings.InteractiveCameraFramingSettings": "Framing",
         "Settings.InteractiveCameraPositioningSettings": "Positioning",
